@@ -24,21 +24,21 @@ export default class CustomSlider extends Component {
         <Slider {...settings}>
           <div>
             <img
-              style={styles.images}
+              //   style={styles.images}
               src="https://demo.codezeel.com/prestashop/PRS15/PRS150359/modules/cz_imageslider/views/img/sample-1.jpg"
               alt="image"
             />
           </div>
           <div>
             <img
-              style={styles.images}
+              //   style={styles.images}
               src="https://demo.codezeel.com/prestashop/PRS15/PRS150359/modules/cz_imageslider/views/img/sample-2.jpg"
               alt="image"
             />
           </div>
           <div>
             <img
-              style={styles.images}
+              //   style={styles.images}
               src="https://demo.codezeel.com/prestashop/PRS15/PRS150359/img/psblog/b/7/1105_709/b-blog-5.jpg"
               alt="image"
             />
