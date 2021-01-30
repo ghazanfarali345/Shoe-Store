@@ -10,6 +10,7 @@ const styles = {
     flexWrap: "wrap",
     justifyContent: "center",
     marginTop: "2%",
+    marginBottom: "2%",
   },
 };
 

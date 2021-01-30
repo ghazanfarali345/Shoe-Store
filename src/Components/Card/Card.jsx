@@ -12,8 +12,7 @@ const useStyles = makeStyles({
     // margin: "2%",
     marginLeft: "10px",
     marginRight: "10px",
-
-    // marginTop: "2%",
+    marginTop: "10%",
     boxShadow: "0 0 10px lightgray",
   },
   media: {
