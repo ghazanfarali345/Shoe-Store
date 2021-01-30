@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,500&display=swap");
+.home {
+  /* background: linear-gradient(
+    rgb(219, 58, 29),
+    rgb(220, 58, 29),
+    rgb(200, 58, 29)
+  ); */
+  background-size: cover;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 87vh;
+  color: rgb(200, 58, 29);
+  font-family: "Prompt", sans-serif;
+  /* text-shadow: 2px 2px #ff0000; */
+}
