@@ -9,7 +9,7 @@ export default class CustomSlider extends Component {
         height: "100%",
         overflow: "hidden",
       },
-      image: {
+      images: {
         width: "100%",
         height: "88vh",
       },
@@ -24,21 +24,21 @@ export default class CustomSlider extends Component {
         <Slider {...settings}>
           <div>
             <img
-              style={styles.image}
+              style={styles.images}
               src="https://demo.codezeel.com/prestashop/PRS15/PRS150359/modules/cz_imageslider/views/img/sample-1.jpg"
               alt="image"
             />
           </div>
           <div>
             <img
-              style={styles.image}
+              style={styles.images}
               src="https://demo.codezeel.com/prestashop/PRS15/PRS150359/modules/cz_imageslider/views/img/sample-2.jpg"
               alt="image"
             />
           </div>
           <div>
             <img
-              style={styles.image}
+              style={styles.images}
               src="https://demo.codezeel.com/prestashop/PRS15/PRS150359/img/psblog/b/7/1105_709/b-blog-5.jpg"
               alt="image"
             />
