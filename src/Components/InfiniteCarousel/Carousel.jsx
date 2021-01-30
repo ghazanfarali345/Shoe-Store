@@ -17,7 +17,7 @@ export default class CustomSlider extends Component {
     const settings = {
       arrowsBlock: false,
       autoplay: true,
-      autoplaySpeed: 2000,
+      autoplaySpeed: 3000,
     };
     return (
       <div style={styles.container}>
