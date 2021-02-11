@@ -7,7 +7,7 @@ import {
 import Home from '../Components/Home/Home'
 import Product from '../Components/Product/Product'
 import Navbar from '../Components/Navbar/Navbar'
-import Topbar from '../Components/Topbar/Topbar'
+// import Topbar from '../Components/Topbar/Topbar'
 import ProductDetails from '../Components/ProductDetails/ProductDetails'
 
 
@@ -15,7 +15,7 @@ export default function App() {
     return (
         <Router>
             <div>
-                <Topbar />
+                {/* <Topbar /> */}
                 <Navbar />
                 <Switch>
                     <Route path="/" exact>
